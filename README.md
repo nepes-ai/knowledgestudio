@@ -11,7 +11,7 @@ Installation
 
 1. Download [knowledgestudio-master.zip](https://github.com/nepes-ai/knowledgestudio.git)
 2. Extract ZIP archive
-3. Gto to `lib` and find `NSNeuralNetwork` directory 
+3. Go to `lib` and find `NSNeuralNetwork` directory 
 4. Compress `NSNeuralNetwork` directory into ZIP file
 5. Install library into your Arduino IDE ([How to install a Library](https://www.arduino.cc/en/Guide/Libraries))
 6. Open `KnowledgeStudio` sketche file click on the toolbar menu: File > Examples > NSNeuralNetwork
