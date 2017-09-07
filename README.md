@@ -5,7 +5,7 @@ You can build your own knowledge model without having to learn code.
 Consequently, It helps you drastically to reduce time-to-market and development cost.
 
 
-Knowledge Communication Library for Arduino
+Knowledge Studio Communication Library for Arduino
 ----------------
 
 1. Download [knowledgestudio-master.zip](https://github.com/nepes-ai/knowledgestudio.git)
